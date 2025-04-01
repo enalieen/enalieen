@@ -5,4 +5,4 @@
 - 🚀 Ich studiere maschinelles Lernen
 - 🐳 Docker-Container verstehen
 
-📫 Mich kontaktieren: [Email](bushuievam@gmail.com)
+📫 Mich kontaktieren: bushuievam@gmail.com
